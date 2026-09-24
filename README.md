@@ -63,6 +63,9 @@ npm run test
 npm run test:watch
 ```
 
+Use a supported modern Node.js release (22.22.2+, 24.15+, or newer) so the
+Vite/Vitest toolchain matches its supported runtime.
+
 ## Intended TDD workflow
 
 1. Write a failing test for the next behavior.
