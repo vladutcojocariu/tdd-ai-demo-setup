@@ -28,3 +28,6 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+# Per-task agent scratch state
+.context/
